@@ -18,19 +18,6 @@ The 2.13 inch ePaper Breakout Board is a specialized expansion board designed fo
 
 ## Features
 
-
-markdown
-Copy code
-# 2.13 inch ePaper Breakout Board
-
-## Introduction
-
-The 2.13 inch ePaper Breakout Board is a specialized expansion board designed for seamless integration with Seeed Studio's XIAO development board and Raspberry Pi. This board offers a highly flexible and convenient way to incorporate ePaper display capabilities into a wide range of projects, from smart homes to industrial control systems and educational applications. The board comes equipped with a XIAO socket, a 40-pin header for Raspberry Pi, a 4-pin Grove connector, and a user button, providing multiple options for connectivity and control.
-
-**Note**: This expansion board **does not include** a 2.13-inch ePaper display; the display must be purchased separately.
-
-## Features
-
 - **High Compatibility**: Designed for seamless integration with Seeed Studio XIAO and Raspberry Pi.
 - **Multiple Interfaces**: Includes a XIAO socket, a 40-pin header for Raspberry Pi, and a 4-pin Grove connector.
 - **User Button**: A built-in user button for implementing various custom functions.
