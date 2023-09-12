@@ -48,6 +48,18 @@ This section provides a detailed overview of the various components and interfac
 - **4. 4-pin Grove Connector**: For connecting other Grove modules or devices.
 - **5. XIAO Socket**: For connecting the Seeed Studio XIAO development board.
 
+### Pin Defines
+
+|ePaper|XIAO|RASPBERRY PI|
+|------|----|------------|
+|RST|D0|GPIO13|
+|CS|D1|GPIO5|
+|BUTTON|D2|GPIO17|
+|DC|D3|GPIO6|
+|BUSY|D5|GPIO19|
+|SCK|D8|GPIO11|
+|MOSI|D10|GPIO10|
+
 ## Getting Started with Arduino
 
 Welcome to the quick start guide for the 2.13 inch ePaper Breakout Board. This guide aims to help you set up and get started with your new 2.13 inch ePaper Breakout Board in conjunction with the XIAO ESP32 C3 main controller.
